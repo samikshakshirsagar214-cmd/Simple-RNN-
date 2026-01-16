@@ -1,4 +1,4 @@
-# Simple-RNN-
+# Simple-RNN-Implementation
 
 Simple RNN Implementation
 
